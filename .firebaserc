@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "danotes-93acc": {
+      "hosting": {
+        "danotes": [
+          "danotes-93acc"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "danotes-93acc"
+  }
+}
